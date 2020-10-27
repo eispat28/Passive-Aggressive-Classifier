@@ -7,3 +7,5 @@ The Passive Aggressive Algorithm works like so:
 
 Working with a data set of +6,000 news articles labelled as either REAL or FAKE, we want to train the Passive Aggressive Classifier to automatically classify articles.
 The results of the classification on the test set were measured using a confusion matrix
+
+Reference: https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/
